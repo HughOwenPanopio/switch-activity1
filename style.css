@@ -1,0 +1,67 @@
+body {
+    background-image: url(images/background/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.p911 {
+    background-image: url(images/cars/p911.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    position: absolute;
+    right: 750px;
+    bottom: 240px;
+}
+.gtr {
+    background-image: url(images/cars/gtr.png);
+    background-repeat: no-repeat;
+    background-size: 650px;
+    position: absolute;
+    left: 100px;
+    bottom: 30px;
+}
+.m5 {
+    background-image: url(images/cars/m5.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    position: absolute;
+    right: 400px;
+    bottom: 200px;
+}
+.supra {
+    background-image: url(images/cars/supra.png);
+    background-repeat: no-repeat;
+    background-size: 600px;
+    position: absolute;
+    right: 100px;
+    bottom: 30px;
+}
+.challenger {
+    background-image: url(images/cars/Challenger.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    position: absolute;
+    left: 80px;
+    bottom: 240px;
+}
+.paul {
+    background-image: url(images/cars/paul.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    position: relative;
+    top: 650px;
+    left: 700px;
+}
+.car {
+    width: 600px;
+    height: 300px;
+    background-color: transparent;
+    border: 0;
+}
+button {
+    color: transparent;
+}
+#start {
+    position: absolute;
+    top: 50px;
+    left: 800px;
+}
